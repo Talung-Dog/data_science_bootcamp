@@ -2,3 +2,7 @@
 
 print("Hello world")
 print("oppenhiemer is a very good movie")
+
+mtcars %>%
+    select(mpg) %>%
+  filter()
