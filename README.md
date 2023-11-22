@@ -3,12 +3,12 @@
 
 I learn a lot of stuff related to data science skills from this bootcamp
 
--Intro to Data Science 
--Building A Second Brain 
--Spreadsheets Part 1 
--Spreadsheets Part 2
-SQL Databases
-Programming Foundation (209:03)
+  -Intro to Data Science 
+  -Building A Second Brain 
+  -Spreadsheets Part 1 
+  -Spreadsheets Part 2
+  -SQL Databases
+  -Programming Foundation (209:03)
 Data Transformation (185:11)
 Data Visualization (166:18)
 Essential Statistics for Data Analyst 
